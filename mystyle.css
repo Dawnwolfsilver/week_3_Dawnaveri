@@ -1,0 +1,70 @@
+body{
+  display:flex;
+  justify-content:center;
+  background-color:#39a6ad;
+}
+#container{
+  position: relative;
+  top: 100px;
+  width: 1000px;
+  margin-bottom: 100px;
+
+}
+#MoonTears1{
+  background-color: #859982;
+  padding: 15px;
+  margin-bottom: 10px;
+  width: 1000px;
+
+}
+#MoonTears2{
+  background-color: #859982;
+  padding: 15px;
+  margin-bottom: 10px;
+  width: 1000px;
+
+}
+#CaféMeetUp1{
+  background-color: #b8707f;
+  padding: 15px;
+  margin-bottom: 10px;
+  width: 1000px;
+  justify-content:center;
+}
+#CaféMeetUp2{
+  background-color: #b8707f;
+  padding: 15px;
+  margin-bottom: 10px;
+  width: 1000px;
+
+
+}
+#CaféMeetUp3{
+  background-color: #b8707f;
+  padding: 15px;
+  margin-bottom: 10px;
+  width: 1000px;
+
+}
+
+ol {
+	list-style-type: none;
+	margin-bottom: 10px;
+	padding: 16px;
+	background-color:#d1cab0;
+  display: flex;
+  justify-content:center;
+  width: 1000px;
+}
+
+li a {
+	display: flex;
+	color: black;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #9371a3
+}
